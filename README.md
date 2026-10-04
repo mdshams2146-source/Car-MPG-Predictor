@@ -53,3 +53,4 @@ The application will launch in your browser at `http://localhost:8501`.
 
 ## 🗄️ SQLite Database History
 Predictions are automatically saved to `history.db` under the `prediction_history` table. You can inspect or clear past predictions directly from the collapsible **"View Prediction History"** drawer in the UI.
+
